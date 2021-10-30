@@ -1,0 +1,4 @@
+Petrov : 10000
+Sidorov : 15000
+Pupkin : 30000
+Vasechkin : 50000
